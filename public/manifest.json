@@ -1,0 +1,17 @@
+{
+  "name": "RADICAL — Fitness Transformation System",
+  "short_name": "RADICAL",
+  "description": "Science-backed fitness transformation system based on the Radical Triangle - Fitness, Diet, and Habits.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FF5F15",
+  "background_color": "#0A0A0A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

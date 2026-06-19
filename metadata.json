@@ -1,0 +1,6 @@
+{
+  "name": "COMMANDO",
+  "description": "A science-backed pop fitness transformation system based on the Commando Triangle - Fitness, Diet, and Habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

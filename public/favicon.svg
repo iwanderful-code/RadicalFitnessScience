@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7F3E" />
+      <stop offset="100%" stop-color="#FF5F15" />
+    </linearGradient>
+  </defs>
+  <!-- Shield outline -->
+  <path d="M50 10 L85 22 C85 55 50 90 50 90 C50 90 15 55 15 22 Z" fill="url(#shieldGrad)" stroke="#0A0A0A" stroke-width="4" />
+  <!-- Inner character 'C' for Commando -->
+  <path d="M62 38 C58 34 52 34 48 38 C42 43 42 57 48 62 C52 66 58 66 62 62" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" />
+</svg>
